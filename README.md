@@ -9,3 +9,6 @@
 
 ## Segunda imagem:
 <img src="Untitled graph (2).png">
+
+## Terceira imagem:
+<img src="Untitled graph (3).png">
